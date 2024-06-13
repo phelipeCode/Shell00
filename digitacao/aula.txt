@@ -1,0 +1,49 @@
+/*/*/*/*/*/*/*/*/*/*/ MANUAL DE COMANDOS VIM /*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+Exemplo: comando = o que este comando faz. depois pressiona enter.
+
+para sair do modo editar pressione a tecla Esc
+
+para usar as opcoes de salvar, sair etc use a tecla ':'
+
+salvar e sair digite 'x' e pressione enter
+
+se quiser só salvar pressione 'w'
+
+se quiser só sair sem salvar pressione 'q!'
+
+para digitar novamente pressiona 'i'
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+shutdown -h now = este comando desliga o computador.
+
+systemctl suspend = este comando dorme o computador.
+
+cd = sair e entra do diretorio 
+
+mkdir = criar pastas
+
+ls = ver tudo dentro do diretorio
+
+vim = criar arquivos texto para editar
+
+touch = criar arquivos normais
+
+sudo apt upgrade = listar tudo que tem disponivel para atualizar.
+
+sudo apt update = atualizar todos os pacotes de aplicacoes disponiveis. 
+
+sudo apt install 'pacote que quer instalar' -y = instalar pacotes 
+
+sudo apt dist-upgrade = faz o upgrade e update de uma vez e atualiza 
+
+rm = remover 
+
+mv = mover e muda nome de arquivos e diretorios
+
+chmod = muda os direitos do arquivo 
+
+cat = criar ou escrever arquivos, mostra arquivos de textos no terminal
+ 
+
+
+
